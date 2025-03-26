@@ -1,0 +1,11 @@
+S:\soft_tech\Snake\Snake\bin\Debug\Snake.exe.config
+S:\soft_tech\Snake\Snake\bin\Debug\Snake.exe
+S:\soft_tech\Snake\Snake\bin\Debug\Snake.pdb
+S:\soft_tech\Snake\Snake\obj\Debug\Snake.csproj.AssemblyReference.cache
+S:\soft_tech\Snake\Snake\obj\Debug\Snake.csproj.SuggestedBindingRedirects.cache
+S:\soft_tech\Snake\Snake\obj\Debug\Snake.Form1.resources
+S:\soft_tech\Snake\Snake\obj\Debug\Snake.Properties.Resources.resources
+S:\soft_tech\Snake\Snake\obj\Debug\Snake.csproj.GenerateResource.cache
+S:\soft_tech\Snake\Snake\obj\Debug\Snake.csproj.CoreCompileInputs.cache
+S:\soft_tech\Snake\Snake\obj\Debug\Snake.exe
+S:\soft_tech\Snake\Snake\obj\Debug\Snake.pdb
