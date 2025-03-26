@@ -1,0 +1,13 @@
+S:\soft_tech\quiz\quiz\obj\Debug\quiz.csproj.AssemblyReference.cache
+S:\soft_tech\quiz\quiz\obj\Debug\quiz.csproj.SuggestedBindingRedirects.cache
+S:\soft_tech\quiz\quiz\obj\Debug\quiz.Form1.resources
+S:\soft_tech\quiz\quiz\obj\Debug\quiz.Properties.Resources.resources
+S:\soft_tech\quiz\quiz\obj\Debug\quiz.UserControl1.resources
+S:\soft_tech\quiz\quiz\obj\Debug\quiz.csproj.GenerateResource.cache
+S:\soft_tech\quiz\quiz\obj\Debug\quiz.csproj.CoreCompileInputs.cache
+S:\soft_tech\quiz\quiz\bin\Debug\quiz.exe.config
+S:\soft_tech\quiz\quiz\bin\Debug\quiz.exe
+S:\soft_tech\quiz\quiz\bin\Debug\quiz.pdb
+S:\soft_tech\quiz\quiz\obj\Debug\quiz.exe
+S:\soft_tech\quiz\quiz\obj\Debug\quiz.pdb
+S:\soft_tech\quiz\quiz\bin\Debug\jatek.csv

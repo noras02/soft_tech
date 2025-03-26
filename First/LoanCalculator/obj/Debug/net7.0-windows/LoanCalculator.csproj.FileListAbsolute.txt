@@ -1,0 +1,17 @@
+S:\soft_tech\First\LoanCalculator\bin\Debug\net7.0-windows\LoanCalculator.exe
+S:\soft_tech\First\LoanCalculator\bin\Debug\net7.0-windows\LoanCalculator.deps.json
+S:\soft_tech\First\LoanCalculator\bin\Debug\net7.0-windows\LoanCalculator.runtimeconfig.json
+S:\soft_tech\First\LoanCalculator\bin\Debug\net7.0-windows\LoanCalculator.dll
+S:\soft_tech\First\LoanCalculator\bin\Debug\net7.0-windows\LoanCalculator.pdb
+S:\soft_tech\First\LoanCalculator\obj\Debug\net7.0-windows\LoanCalculator.csproj.AssemblyReference.cache
+S:\soft_tech\First\LoanCalculator\obj\Debug\net7.0-windows\LoanCalculator.Form1.resources
+S:\soft_tech\First\LoanCalculator\obj\Debug\net7.0-windows\LoanCalculator.csproj.GenerateResource.cache
+S:\soft_tech\First\LoanCalculator\obj\Debug\net7.0-windows\LoanCalculator.GeneratedMSBuildEditorConfig.editorconfig
+S:\soft_tech\First\LoanCalculator\obj\Debug\net7.0-windows\LoanCalculator.AssemblyInfoInputs.cache
+S:\soft_tech\First\LoanCalculator\obj\Debug\net7.0-windows\LoanCalculator.AssemblyInfo.cs
+S:\soft_tech\First\LoanCalculator\obj\Debug\net7.0-windows\LoanCalculator.csproj.CoreCompileInputs.cache
+S:\soft_tech\First\LoanCalculator\obj\Debug\net7.0-windows\LoanCalculator.dll
+S:\soft_tech\First\LoanCalculator\obj\Debug\net7.0-windows\refint\LoanCalculator.dll
+S:\soft_tech\First\LoanCalculator\obj\Debug\net7.0-windows\LoanCalculator.pdb
+S:\soft_tech\First\LoanCalculator\obj\Debug\net7.0-windows\LoanCalculator.genruntimeconfig.cache
+S:\soft_tech\First\LoanCalculator\obj\Debug\net7.0-windows\ref\LoanCalculator.dll
